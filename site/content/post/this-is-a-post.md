@@ -2,7 +2,7 @@
 title: This is a post
 date: 2017-03-17T20:02:55.899Z
 description: yes thus it is that this post is existent
-image: /dist/lam-ring01.jpg
+image: /dist/16142935_10154048074181541_1182270564770583034_n.jpg
 ---
 
 **hello** this is some text.  
